@@ -1,0 +1,12 @@
+package ac.th.sau;
+
+public class MyClass02 { //อะไรก็ตามที่อยุ่ในแม่ จะไปอยู่ในลูกด้วย
+    public int aa = 10;
+
+    public void show1(){
+        System.out.println(111);
+    }
+    public void show2(){
+        System.out.println(222);
+    }
+}
